@@ -1099,7 +1099,7 @@
   (gr_line (start 113.357559 102.551301) (end 113.357559 96.396299) (layer Cmts.User) (width 0.15))
   (gr_line (start 128.405161 102.551301) (end 113.357559 102.551301) (layer Cmts.User) (width 0.15))
   (gr_line (start 128.405161 96.396299) (end 128.405161 102.551301) (layer Cmts.User) (width 0.15))
-  (gr_text "The current 4 layer 0.8mm board stackup is as follows:\n\nThickness           Layer\n================================================\n    35µm            copper\n    175µm           7628LR-TG150\n    35µm            copper\n    250µm           \n    35µm            copper\n    175µm           7628LR-TG150\n    35µm            copper\n\n" (at 136.62152 72.81418) (layer Cmts.User)
+  (gr_text "The current 4 layer 1.6 mm board stackup is as follows:\n\nThickness           Layer\n================================================\n\nOuter layers 1 oz base copper foil\nInner layers 0.5 oz base copper foil\n\nElectroless Nickel Immersion Gold (ENIG) surface finish\n\nsolder resist   0.0254mm\ncopper          0.0356mm    L1 (TOP)\nFR408 prepreg   0.1702mm\ncopper          0.0178mm    L2 (GND)\nFR408           1.1938mm\ncopper          0.0178mm    L3 (PWR)\nFR408 prepreg   0.1702mm\ncopper          0.0356mm    L4 (BOT)\nsolder resist   0.0254mm\n" (at 136.62152 72.81418) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
   (gr_text "CUT OUT" (at 107.68978 58.0744 180) (layer B.Fab)
