@@ -1,6 +1,6 @@
 # WooKey Screen PCB
 
-![Pinout](/imgs/wookey-screen-3D.png)
+![Pinout](./imgs/wookey-screen-3D.png)
 
 
 ## Introduction
@@ -68,18 +68,18 @@ The directory name may differ according the project your are working with.
 
 ## PCB Pinout
 
-![Pinout](/imgs/wookey-screen-top-pinout.png)
+![Pinout](./imgs/wookey-screen-top-pinout.png)
 
 
 ## PCB Layers
 
 ### PCB TOP layer
 
-![TOP](/imgs/wookey-screen-top.png)
+![TOP](./imgs/wookey-screen-top.png)
 
 ### PCB BOTTOM layer
 
-![BOT](/imgs/wookey-screen-bot.png)
+![BOT](./imgs/wookey-screen-bot.png)
 
 
 ### Layers
