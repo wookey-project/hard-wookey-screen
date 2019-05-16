@@ -1,16 +1,16 @@
 EESchema Schematic File Version 4
-LIBS:wookey-cache
+LIBS:wookey-screen-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 8 9
-Title "Wookey-Project"
-Date "2019-05-13"
+Sheet 1 1
+Title "Wookey Screen Dev Board"
+Date "2019-05-16"
 Rev ""
 Comp "ANSSI"
 Comment1 "Designed by Mathieu RENARD"
-Comment2 "LICENCE: "
+Comment2 "LICENCE: CERN Open Hardware Licence v1.2"
 Comment3 ""
 Comment4 ""
 $EndDescr
